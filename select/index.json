@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Blueming",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-14T15:52:03.058021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blueming",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_Blueming_IU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blueming",
+      "artist": "IU - 아이유",
+      "has_synced": true,
+      "path": "select/02_Blueming_IU_-_아이유.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blueming",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_Blueming_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blueming (Blueming)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/04_Blueming_(Blueming)_IU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blueming",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/05_Blueming_IU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blueming",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/06_Blueming_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blueming",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Blueming_IU.txt"
+    }
+  ]
+}
